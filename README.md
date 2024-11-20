@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=temevh&show_icons=true&theme=transparent%bg_color=FFA500)
+[![GitHub Streak](https://streak-stats.demolab.com?user=temevh&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
 <!--
 **temevh/temevh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
