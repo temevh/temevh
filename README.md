@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=temevh&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=temevh&show_icons=true&theme=transparent%bg_color=FFA500)
 
 <!--
 **temevh/temevh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
