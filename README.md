@@ -1,21 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I’m Teemu
+React Front-End Developer.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=temevh&show_icons=true&theme=dark)
-[![GitHub Streak](https://streak-stats.demolab.com?user=temevh&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+Let's collaborate :)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=temevh)](https://github.com/anuraghazra/github-readme-stats)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/anastasia-pirus](https://www.linkedin.com/in/temevh/)) 
 
-<!--
-**temevh/temevh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ [My Website](https://www.teemuh.com) ✨
 
-Here are some ideas to get you started:
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=temevh&theme=bear&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=temevh&theme=bear&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=temevh&theme=bear&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
