@@ -1,4 +1,4 @@
-<p align="center"><a href="https://temevh.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./gh_header.png" /></a></p>
+<p align="center"><a href="https://temevh.github.io"><img width="30%" alt="Hello, I'm Anurag. I do open source!" src="./gh_header.png" /></a></p>
 
 **About me**
 
@@ -11,7 +11,6 @@ On my free time I like to train muay thai🥊, play videogames🎮, go to the gy
 
 Let's collaborate :)
 
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/anastasia-pirus](https://www.linkedin.com/in/temevh/)) 
 
 ✨ [My Website](https://www.teemuh.com) ✨
