@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Teemu :)
 
-🔭I am currently working as a Front-end developer
+🔭I am currently working as a Front-end developer\n
 🖥In my personal projects I do full-stack and mobile(with varying degrees of success)
 📚I am studying Computer Science/Information Technology
 🔍I am interested to learn more about machine learning, AI and modern software development tools and frameworks
