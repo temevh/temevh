@@ -1,5 +1,7 @@
 <p align="center"><a href="https://temevh.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./gh_header.png" /></a></p>
+
 **About me**
+
 - 🔭I am currently working as a Front-end developer  
 - 🖥In my personal projects I do full-stack and mobile(with varying degrees of success)  
 - 📚I am studying Computer Science/Information Technology  
