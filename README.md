@@ -1,4 +1,4 @@
-<p align="center"><a href="https://temevh.github.io"><img width="30%" alt="Hello!" src="./gh_header.png" /></a></p>
+<p align="center"><a href="https://temevh.github.io"><img width="50%" alt="Hello!" src="./gh_header.png" /></a></p>
 
 **About me**
 
@@ -15,6 +15,6 @@ Feel free to message me anywhere/anytime! :)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/anastasia-pirus](https://www.linkedin.com/in/temevh/)) 
 
 ✨ [My Website](https://www.teemuh.com) ✨
-# 📊 GitHub Stats:
-|![](https://github-readme-streak-stats.herokuapp.com/?user=temevh&theme=darcula&hide_border=true)|![](https://github-readme-stats.vercel.app/api?username=temevh&theme=darcula&hide_border=true&include_all_commits=false&count_private=false)|
-| ------------- | ------------- |
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=temevh&theme=darcula&hide_border=true)
+
