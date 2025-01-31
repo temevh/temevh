@@ -15,6 +15,3 @@ Feel free to message me anywhere/anytime! :)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/anastasia-pirus](https://www.linkedin.com/in/temevh/)) 
 
 ✨ [My Website](https://www.teemuh.com) ✨
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=temevh&theme=darcula&hide_border=true)
-
