@@ -1,5 +1,7 @@
 <p align="center"><a href="https://temevh.github.io"><img width="50%" alt="Hello!" src="./gh_header.png" /></a></p>
 
+✨ [My Website](https://www.teemuh.com) ✨
+
 **About me**
 
 - 🔭I am currently working as a Front-end developer
@@ -12,6 +14,4 @@ On my free time I like to train muay thai🥊, play videogames🎮, go to the gy
 
 Feel free to message me anywhere/anytime! :)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/anastasia-pirus](https://www.linkedin.com/in/temevh/)) 
 
-✨ [My Website](https://www.teemuh.com) ✨
